@@ -1,0 +1,92 @@
+{
+  "STU001": {
+    "id": "STU001",
+    "name": "Test Student",
+    "email": "test@example.com",
+    "password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "disability_type": "Visual Impairment",
+    "dob": "2000-01-15",
+    "phone": "+91 98765 43210",
+    "registered_at": "2026-03-13T12:36:26.737382"
+  },
+  "DBG001": {
+    "id": "DBG001",
+    "name": "Debug Tester",
+    "email": "debug@test.com",
+    "password_hash": "937e8d5fbb48bd4949536cd65b8d35c426b80d2f830c5c308e2cdec422ae2244",
+    "disability_type": "Motor Impairment",
+    "dob": "2001-05-20",
+    "phone": "1234567890",
+    "registered_at": "2026-03-13T12:45:22.749789"
+  },
+  "A001": {
+    "id": "A001",
+    "name": "Alice Johnson",
+    "email": "alice@test.com",
+    "password_hash": "937e8d5fbb48bd4949536cd65b8d35c426b80d2f830c5c308e2cdec422ae2244",
+    "disability_type": "Visual Impairment",
+    "dob": "2001-06-15",
+    "phone": "9876543210",
+    "registered_at": "2026-03-13T15:17:11.394321"
+  },
+  "T001": {
+    "id": "T001",
+    "name": "Test User",
+    "email": "t@t.com",
+    "password_hash": "937e8d5fbb48bd4949536cd65b8d35c426b80d2f830c5c308e2cdec422ae2244",
+    "disability_type": "None",
+    "dob": "2000-01-01",
+    "phone": "1234567890",
+    "registered_at": "2026-03-13T15:26:35.173543"
+  },
+  "1234": {
+    "id": "1234",
+    "name": "kartik",
+    "email": "kartik@gmail.com",
+    "password_hash": "35faf1d8a1cf7e13cc4875ec086e9d8c16cb372dfc42118231a852dc8ccafef8",
+    "disability_type": "Motor Impairment",
+    "dob": "2004-04-06",
+    "phone": "328748",
+    "registered_at": "2026-03-13T16:17:53.875170"
+  },
+  "1221": {
+    "id": "1221",
+    "name": "raghava",
+    "email": "rag@gmail.com",
+    "password_hash": "e68031d998b7fec48f28df70e954af1326bf8b325571aea64d021702580f64f7",
+    "disability_type": "Motor Impairment",
+    "dob": "2003-08-05",
+    "phone": "9999999999",
+    "registered_at": "2026-04-01T21:44:20.679924"
+  },
+  "TEST01": {
+    "id": "TEST01",
+    "name": "Test User",
+    "email": "test01@test.com",
+    "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "disability_type": "Visual Impairment",
+    "dob": "2000-01-01",
+    "phone": "1234567890",
+    "registered_at": "2026-04-02T22:11:30.561192"
+  },
+  "TEST02": {
+    "id": "TEST02",
+    "name": "Test User 2",
+    "email": "test02@test.com",
+    "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "disability_type": "Visual Impairment",
+    "dob": "2000-01-01",
+    "phone": "1234567890",
+    "registered_at": "2026-04-02T22:49:42.802274"
+  },
+  "1111": {
+    "id": "1111",
+    "name": "Ayush",
+    "email": "ayus@gmail.com",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "disability_type": "Visual Impairment",
+    "dob": "2026-04-16",
+    "phone": "+916260107075",
+    "registered_at": "2026-04-16T13:58:45.095543"
+  }
+}

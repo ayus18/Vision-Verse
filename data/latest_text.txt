@@ -1,0 +1,30 @@
+1. What is the capital of India?
+A) Mumbai
+B) New Delhi
+C) Kolkata
+D) Chennai
+Answer: B) New Delhi
+2. Which planet is known as the Red Planet?
+A) Earth
+B) Venus
+C) Mars
+D) Jupiter
+Answer: C) Mars
+3. What is 5 + 3?
+A) 6
+B) 7
+C) 8
+D) 9
+Answer: C) 8
+4. Which is the largest mammal?
+A) Elephant
+B) Blue Whale
+C) Giraffe
+D) Shark
+Answer: B) Blue Whale
+5. Which language is used for web development?
+A) Python
+B) HTML
+C) C++
+D) Java
+Answer: B) HTML
