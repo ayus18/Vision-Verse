@@ -11,7 +11,7 @@ from flask_socketio import SocketIO, emit
 import io
 
 # ---------------------------------------------------------------------------
-# Admin Credentials (change before production!)
+# Admin Credentials - change before production!) 
 # ---------------------------------------------------------------------------
 ADMIN_USERNAME = os.environ.get('ADMIN_USERNAME', 'admin')
 ADMIN_PASSWORD = os.environ.get('ADMIN_PASSWORD', 'admin1234')
