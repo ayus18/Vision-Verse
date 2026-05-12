@@ -26,9 +26,9 @@ socketio = SocketIO(app, cors_allowed_origins="*")
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
 
-# ---------------------------------------------------------------------------
+# -------------------------------------------------------------------------
 # Gesture engine (optional – works without camera hardware)
-# ---------------------------------------------------------------------------
+# -------------------------------------------------------------------------
 try:
     from gesture_engine import GestureEngine
     gesture_engine = GestureEngine(socketio)
