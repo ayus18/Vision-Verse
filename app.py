@@ -16,9 +16,9 @@ import io
 ADMIN_USERNAME = os.environ.get('ADMIN_USERNAME', 'admin')
 ADMIN_PASSWORD = os.environ.get('ADMIN_PASSWORD', 'admin1234')
 
-# ---------------------------------------------------------------------------
+# --------------------------------------------------------------------------
 # App & SocketIO Setup
-# ---------------------------------------------------------------------------
+# --------------------------------------------------------------------------
 app = Flask(__name__)
 app.secret_key = 'visionverse-secret-key-2024'
 app.config['SESSION_TYPE'] = 'filesystem'
