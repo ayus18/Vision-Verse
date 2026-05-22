@@ -4,7 +4,7 @@ An accessible, AI-powered online examination system designed specifically for st
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-KartikChincholkar%2FVision--Verse-blue?logo=github)](https://github.com/KartikChincholkar/Vision-Verse)
 
-## ⚡ Direct CLI Commands to Run the Project
+## ⚡ Direct CLI Commands to Run this Project
 
 If you want to quickly set up and run the project from scratch, simply copy and paste these direct CLI commands into your terminal:
 
